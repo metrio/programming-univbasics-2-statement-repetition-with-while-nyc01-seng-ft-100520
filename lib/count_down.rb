@@ -5,3 +5,5 @@ while number >= 0 do
   puts "#{number}\n"
   number -= 1
 end
+
+puts "Happy New Year!"
